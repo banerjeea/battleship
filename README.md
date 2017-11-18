@@ -1,3 +1,4 @@
+
 # The Classic Battleship Game
 
 Game is played on a 10 x 10 grid. You will be asked to enter your ship start position, length and orientation in-order to
@@ -17,14 +18,23 @@ Enter 0 for horizontal and 1 for vertical alignment of ship.
 
 Board is ready.
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
+
 0 0 0 0 0 0 0 0 0 0
 
 Enter hit position
